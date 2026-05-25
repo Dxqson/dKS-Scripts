@@ -1,0 +1,9 @@
+<patchnote>
+0.2.0
+- Initial release: hot air balloon rental system for VORP
+- Multi-language: English, French, Brazilian Portuguese, German, Russian
+- NPC rental points (unlimited, configurable price + spawn coords)
+- Up to 3 passengers attached in the basket, fully synced
+- Native pilot animation (burner chain pull) with rope rendered for all players
+- Toggle orbit camera while piloting
+</patchnote>
