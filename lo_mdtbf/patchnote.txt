@@ -1,0 +1,4 @@
+<patchnote>
+0.1.0
+- Initial release: sheriff MDT (Vue 3 NUI clipboard)
+</patchnote>

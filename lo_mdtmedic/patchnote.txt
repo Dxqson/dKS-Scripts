@@ -1,0 +1,4 @@
+<patchnote>
+0.1.0
+- Initial release: medic MDT (Vue 3 NUI clipboard)
+</patchnote>
