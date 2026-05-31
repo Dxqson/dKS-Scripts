@@ -1,4 +1,12 @@
 <patchnote>
-0.1.0
-- Initial release: sheriff MDT (Vue 3 NUI clipboard)
+- Cross-bureau sharing on warrants, court orders and investigation files
+  (same UX as reports).
+- Citizen detail view: new "Linked warrants" section. Editing a report
+  now saves the linked citizen and preserves the editor's bureau access.
+- Cross-station roles (court / prosecutor / governor) create documents
+  with no fixed origin -- share dropdown lists every station.
+- Investigation board: rope-style edges, resizable post-its and title
+  nodes, image recompression on save.
+- Mandat type "Ordonnance Judiciaire" relabeled "Mandat de comparution".
+- 4 new NUI locales (pt-br, pt, ru, de) on top of fr/en.
 </patchnote>
