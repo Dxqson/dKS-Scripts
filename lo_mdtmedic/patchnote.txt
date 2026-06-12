@@ -1,4 +1,8 @@
 <patchnote>
-0.1.0
-- Initial release: medic MDT (Vue 3 NUI clipboard)
+- UI refresh: HD clipboard / intercalaire / tab assets, PNG silhouette
+  tabs with refined cascade, and 2K + 4K responsive scaling.
+- Tighter typography and form layouts across the patient, reports,
+  autopsies, prescriptions, certificates, registry and appointments
+  modules.
+- Bug fixes and stability improvements.
 </patchnote>
