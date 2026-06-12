@@ -1,12 +1,16 @@
 <patchnote>
-- Cross-bureau sharing on warrants, court orders and investigation files
-  (same UX as reports).
-- Citizen detail view: new "Linked warrants" section. Editing a report
-  now saves the linked citizen and preserves the editor's bureau access.
-- Cross-station roles (court / prosecutor / governor) create documents
-  with no fixed origin -- share dropdown lists every station.
-- Investigation board: rope-style edges, resizable post-its and title
-  nodes, image recompression on save.
-- Mandat type "Ordonnance Judiciaire" relabeled "Mandat de comparution".
-- 4 new NUI locales (pt-br, pt, ru, de) on top of fr/en.
+- Citizen detail: new "Linked warrants" section listing every warrant
+  where the citizen is the suspect.
+- Editing a report now correctly saves the linked citizen, with an
+  auto-share safety net so the editor's bureau keeps visibility.
+- Cross-station roles (court / prosecutor / governor) no longer lose
+  the warrants and court orders they create from their own list.
+- Citizens created by court / prosecutor / governor now land in their
+  matching bureau instead of being filed at Saint-Denis.
+- Report "origin station" now reflects the bureau that filed the
+  report (was showing the citizen's home bureau for linked reports).
+- Citizen search now matches the telegram number.
+- Investigations: added "Prosecutor" and "Attorney" to the bureau list.
+- UI refresh: HD clipboard / tab assets and 2K + 4K responsive
+  scaling brought in line with the medic MDT.
 </patchnote>
